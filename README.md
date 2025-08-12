@@ -1,12 +1,19 @@
-# React + Vite
+# Contact Us Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean front-end **Contact Us** page built using HTML, CSS, and React.  
+This project is purely front-end (non-responsive) and designed for practicing UI design and layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Contact form with Name, Email, and Text fields
+- Buttons for different contact methods (Support Chat, Call, Email)
+- Modern illustration for visual appeal
+- Minimal and clean design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **HTML**
+- **CSS**
+- **React**
+- **Vite** (for fast development build)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/4004990d-44f4-40bc-8d07-9bd8ea6b6af8" />
